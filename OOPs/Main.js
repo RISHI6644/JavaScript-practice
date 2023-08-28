@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 
 console.log("Let's dive into the world of Object Oriented JavaScript!!!");
 
